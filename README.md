@@ -11,5 +11,16 @@ This project documents the design and implementation of a zero-trust home lab us
 - OpenVPN remote access with FreeRADIUS + TOTP MFA
 - Jump-box-only access model for least privilege
 - Azure private jump box with no public VM exposure
-- https://github.com/Adedotun26/Zero-Trust-Homelab/blob/main/40325a9a-e897-4769-859a-fef200dfb1ef.png
-- 
+## Architecture Diagram
+![Zero Trust Home Lab Architecture](./diagrams/zero-trust-home-lab-architecture.png)
+
+## Documentation
+- [Project Overview](./docs/01-project-overview.md)
+- [Network Design](./docs/02-network-design.md)
+- [VLANs and IP Plan](./docs/03-vlans-and-ip-plan.md)
+- [Switch Configuration](./docs/04-switch-configuration.md)
+- [Access Point Configuration](./docs/05-access-point-configuration.md)
+- [Firewall Rules](./docs/06-firewall-rules.md)
+- [VPN and MFA](./docs/07-vpn-and-mfa.md)
+- [Jump Box](./docs/08-jump-box.md)
+- [Troubleshooting](./docs/09-troubleshooting.md)
