@@ -17,6 +17,7 @@
 - [VPN and MFA](docs/07-vpn-and-mfa.md)
 - [Jump Box](docs/08-jump-box.md)
 - [Troubleshooting](docs/09-troubleshooting.md)
+
 ---# Zero Trust Homelab
 Zero-trust home lab with pfSense VLAN segmentation, OpenVPN MFA, jump-box-only access, and Azure private VM extension.
 
